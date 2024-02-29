@@ -72,7 +72,6 @@ The Expenses App relies on a backend server for handling data and requests. You 
 Contributing
 If you'd like to contribute to this project, please follow the Contributing Guidelines.
 
-License
-This project is licensed under the MIT License.
+
 
 
