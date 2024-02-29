@@ -40,7 +40,7 @@ Usage
 To run the Expenses App frontend, use the following command:
 npm start
 
-This will start the development server, and you can access the app at http://localhost:3000.
+This will start the development server, and you can access the app at http://localhost:5173/
 
 React: A JavaScript library for building user interfaces.
 dependencies: 
