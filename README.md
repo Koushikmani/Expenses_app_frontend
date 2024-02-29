@@ -1,5 +1,5 @@
 Expenses App 
-This is the frontend repository for an Expenses App, which is a web application designed to manage and track expenses. This repository is intended to work in conjunction with the backend repository, which can be found here. [expense-app-backend](https://github.com/nagarjun73/expenses-app-backend)
+This is the frontend repository for an Expenses App, which is a web application designed to manage and track expenses. This repository is intended to work in conjunction with the backend repository, which can be found here. [Expenses_app_backend](https://github.com/Koushikmani/Expenses_app_backend)
 
 Table of Contents
 Overview
@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/nagarjun73/expenses-app-frontend.git
+git clone https://github.com/Koushikmani/Expenses_app_frontend.git
 Change to the project directory:
 
 bash
@@ -28,10 +28,10 @@ cd expenses-app-frontend
 Install dependencies:
 
 Clone the repository:
-git clone https://github.com/nagarjun73/expenses-app-frontend.git
+git clone https://github.com/Koushikmani/Expenses_app_frontend.git
 
 Change to the project directory:
-cd expenses-app-frontend
+cd Expenses_app_frontend
 
 Install dependencies:
 npm install
@@ -67,7 +67,7 @@ bash
 Copy code
 npm install
 Backend
-The Expenses App relies on a backend server for handling data and requests. You can find the backend repository here.[expense-app-backend](https://github.com/nagarjun73/expenses-app-backend)
+The Expenses App relies on a backend server for handling data and requests. You can find the backend repository here.[Expenses_app_backend](https://github.com/Koushikmani/Expenses_app_backend)
 
 Contributing
 If you'd like to contribute to this project, please follow the Contributing Guidelines.
